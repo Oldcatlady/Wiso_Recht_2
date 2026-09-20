@@ -1,0 +1,178 @@
+[
+  {
+    "question": "Welches Merkmal ist typisch für das Privatrecht?",
+    "options": {
+      "A": "Eine Behörde handelt gegenüber einem Bürger mit hoheitlicher Befugnis.",
+      "B": "Die Beteiligten stehen sich grundsätzlich rechtlich gleichgeordnet gegenüber.",
+      "C": "Der Staat verhängt aufgrund gesetzlicher Befugnisse eine Geldbuße.",
+      "D": "Eine Behörde erlässt einen Verwaltungsakt."
+    },
+    "correct": "B",
+    "explanation": "Das Privatrecht regelt grundsätzlich Rechtsbeziehungen zwischen rechtlich gleichgeordneten Rechtssubjekten. Typische Beispiele sind Kauf-, Miet- oder Werkverträge. Das öffentliche Recht ist dagegen insbesondere dadurch geprägt, dass ein Träger öffentlicher Gewalt hoheitlich handeln kann."
+  },
+  {
+    "question": "Welcher Sachverhalt gehört typischerweise zum öffentlichen Recht?",
+    "options": {
+      "A": "Zwei Privatpersonen schließen einen Kaufvertrag.",
+      "B": "Ein Unternehmen bestellt Computer bei einem Händler.",
+      "C": "Eine Behörde erlässt gegenüber einem Bürger einen Verwaltungsakt.",
+      "D": "Ein Kunde beauftragt einen Handwerker mit einer Reparatur."
+    },
+    "correct": "C",
+    "explanation": "Das öffentliche Recht regelt insbesondere Rechtsbeziehungen, in denen der Staat oder ein anderer Träger öffentlicher Gewalt hoheitlich handelt. Ein Verwaltungsakt ist dafür ein typisches Beispiel. Kauf- und Werkverträge gehören grundsätzlich zum Privatrecht."
+  },
+  {
+    "question": "Welches Gesetz gehört überwiegend zum Privatrecht?",
+    "options": {
+      "A": "Das Bürgerliche Gesetzbuch (BGB).",
+      "B": "Das Strafgesetzbuch (StGB).",
+      "C": "Das Grundgesetz (GG).",
+      "D": "Das Sozialgesetzbuch (SGB)."
+    },
+    "correct": "A",
+    "explanation": "Das BGB ist eine zentrale Rechtsquelle des deutschen Privatrechts. Es regelt unter anderem Rechtsgeschäfte, Verträge, Schuldverhältnisse, Sachenrecht, Familienrecht und Erbrecht. Strafrecht, Verfassungsrecht und Sozialrecht gehören dagegen grundsätzlich zum öffentlichen Recht."
+  },
+  {
+    "question": "Welche Zuordnung ist richtig?",
+    "options": {
+      "A": "Strafrecht = Privatrecht.",
+      "B": "Steuerrecht = Privatrecht.",
+      "C": "BGB = öffentliches Recht.",
+      "D": "Verwaltungsrecht = öffentliches Recht."
+    },
+    "correct": "D",
+    "explanation": "Das Verwaltungsrecht gehört zum öffentlichen Recht. Es betrifft insbesondere die Tätigkeit der öffentlichen Verwaltung und ihre Rechtsbeziehungen zu Bürgern und Unternehmen. Das BGB gehört dagegen zum Privatrecht; Straf- und Steuerrecht gehören grundsätzlich zum öffentlichen Recht."
+  },
+  {
+    "question": "Welches Rechtsgebiet gehört grundsätzlich zum öffentlichen Recht?",
+    "options": {
+      "A": "Steuerrecht.",
+      "B": "Kaufrecht zwischen zwei Privatpersonen.",
+      "C": "Privates Mietrecht.",
+      "D": "Privates Werkvertragsrecht."
+    },
+    "correct": "A",
+    "explanation": "Das Steuerrecht gehört zum öffentlichen Recht. Der Staat erhebt Steuern aufgrund öffentlich-rechtlicher Vorschriften. Kauf-, Miet- und Werkvertragsrecht sind dagegen klassische Bereiche des Privatrechts."
+  },
+  {
+    "question": "Was beschreibt das Über- und Unterordnungsprinzip im öffentlichen Recht am besten?",
+    "options": {
+      "A": "Beide Vertragspartner dürfen ihre Rechte frei aushandeln.",
+      "B": "Jede Vertragspartei besitzt immer dieselben wirtschaftlichen Möglichkeiten.",
+      "C": "Nur Unternehmen können anderen Personen Weisungen erteilen.",
+      "D": "Ein Träger öffentlicher Gewalt kann einem Bürger aufgrund hoheitlicher Befugnisse gegenübertreten."
+    },
+    "correct": "D",
+    "explanation": "Das Über- und Unterordnungsprinzip ist ein klassisches Erklärungsmodell für öffentlich-rechtliche Beziehungen. Ein Träger öffentlicher Gewalt kann aufgrund gesetzlicher Befugnisse hoheitlich handeln. Im Privatrecht stehen sich die Beteiligten dagegen grundsätzlich gleichgeordnet gegenüber."
+  },
+  {
+    "question": "Was ist eine Rechtsverordnung?",
+    "options": {
+      "A": "Eine aufgrund gesetzlicher Ermächtigung von einem Organ der Exekutive erlassene Rechtsnorm.",
+      "B": "Jedes vom Bundestag beschlossene förmliche Gesetz.",
+      "C": "Eine private Vereinbarung zwischen zwei Unternehmen.",
+      "D": "Ein einzelner Verwaltungsakt gegenüber einer bestimmten Person."
+    },
+    "correct": "A",
+    "explanation": "Eine Rechtsverordnung ist eine Rechtsnorm, die aufgrund einer gesetzlichen Ermächtigung von einem dazu ermächtigten Organ der Exekutive erlassen wird. Nach Art. 80 GG können auf Bundesebene insbesondere Bundesregierung, Bundesminister oder Landesregierungen durch Gesetz zum Erlass von Rechtsverordnungen ermächtigt werden. Sie ist von einem förmlichen Parlamentsgesetz zu unterscheiden."
+  },
+  {
+    "question": "Welche Aussage über Rechtsverordnungen ist richtig?",
+    "options": {
+      "A": "Sie benötigen niemals eine gesetzliche Grundlage.",
+      "B": "Sie können aufgrund einer gesetzlichen Ermächtigung durch dazu ermächtigte Organe der Exekutive erlassen werden.",
+      "C": "Sie sind ausschließlich private Vertragsbedingungen.",
+      "D": "Jede Rechtsverordnung muss als förmliches Gesetz vom Bundestag beschlossen werden."
+    },
+    "correct": "B",
+    "explanation": "Rechtsverordnungen benötigen eine gesetzliche Ermächtigung. Art. 80 Abs. 1 GG verlangt, dass Inhalt, Zweck und Ausmaß der Ermächtigung im Gesetz bestimmt werden. Eine Rechtsverordnung ist deshalb kein beliebiges Handeln der Exekutive."
+  },
+  {
+    "question": "Was muss ein Gesetz nach Art. 80 Abs. 1 GG hinsichtlich einer Ermächtigung zum Erlass einer Rechtsverordnung bestimmen?",
+    "options": {
+      "A": "Nur den Namen der späteren Rechtsverordnung.",
+      "B": "Nur das Datum ihres Inkrafttretens.",
+      "C": "Inhalt, Zweck und Ausmaß der erteilten Ermächtigung.",
+      "D": "Ausschließlich die Zahl der betroffenen Bürger."
+    },
+    "correct": "C",
+    "explanation": "Art. 80 Abs. 1 GG verlangt, dass Inhalt, Zweck und Ausmaß der erteilten Ermächtigung im Gesetz bestimmt werden. Dadurch wird die Rechtsetzungsbefugnis der Exekutive gesetzlich begrenzt."
+  },
+  {
+    "question": "Was ist ein Rechtsgeschäft?",
+    "options": {
+      "A": "Jede Handlung eines Menschen unabhängig von ihrer rechtlichen Bedeutung.",
+      "B": "Ausschließlich ein schriftlicher Vertrag.",
+      "C": "Nur ein Geschäft, bei dem Geld bezahlt wird.",
+      "D": "Ein Tatbestand aus mindestens einer Willenserklärung, mit dem eine gewollte Rechtsfolge herbeigeführt wird."
+    },
+    "correct": "D",
+    "explanation": "Ein Rechtsgeschäft besteht aus mindestens einer Willenserklärung und gegebenenfalls weiteren Voraussetzungen. Es ist darauf gerichtet, eine bestimmte Rechtsfolge herbeizuführen. Ein Vertrag ist ein wichtiges Beispiel für ein Rechtsgeschäft, aber nicht jedes Rechtsgeschäft ist ein Vertrag."
+  },
+  {
+    "question": "Was ist für einen Vertrag grundsätzlich erforderlich?",
+    "options": {
+      "A": "Immer eine notarielle Beurkundung.",
+      "B": "Mindestens zwei übereinstimmende Willenserklärungen, insbesondere Angebot und Annahme.",
+      "C": "Immer die Zahlung eines Geldbetrags.",
+      "D": "Immer eine schriftliche Urkunde."
+    },
+    "correct": "B",
+    "explanation": "Ein Vertrag entsteht grundsätzlich durch mindestens zwei inhaltlich übereinstimmende Willenserklärungen, typischerweise Angebot und Annahme. Eine besondere Form ist nur erforderlich, wenn das Gesetz oder die Parteien sie vorsehen."
+  },
+  {
+    "question": "Was bedeutet Rechtsfähigkeit?",
+    "options": {
+      "A": "Die Fähigkeit, Träger von Rechten und Pflichten zu sein.",
+      "B": "Die Fähigkeit, jeden Vertrag ohne Einschränkungen abzuschließen.",
+      "C": "Die Fähigkeit, ausschließlich vor Gericht aufzutreten.",
+      "D": "Die Fähigkeit, ein Gewerbe zu betreiben."
+    },
+    "correct": "A",
+    "explanation": "Rechtsfähigkeit ist die Fähigkeit, Träger von Rechten und Pflichten zu sein. Bei natürlichen Personen beginnt sie nach § 1 BGB mit der Vollendung der Geburt. Rechtsfähigkeit und Geschäftsfähigkeit sind zu unterscheiden."
+  },
+  {
+    "question": "Was bedeutet Geschäftsfähigkeit?",
+    "options": {
+      "A": "Die Fähigkeit, Eigentümer einer Sache zu sein.",
+      "B": "Die Fähigkeit, durch eigenes rechtsgeschäftliches Handeln wirksame Rechtsgeschäfte vorzunehmen.",
+      "C": "Die Fähigkeit, ausschließlich ein Unternehmen zu gründen.",
+      "D": "Die Fähigkeit, vor Gericht als Zeuge auszusagen."
+    },
+    "correct": "B",
+    "explanation": "Geschäftsfähigkeit bezeichnet die Fähigkeit, selbstständig wirksame Rechtsgeschäfte vorzunehmen. Sie ist von der Rechtsfähigkeit zu unterscheiden. Ein Mensch kann rechtsfähig sein, obwohl seine Geschäftsfähigkeit aufgrund seines Alters eingeschränkt ist."
+  },
+  {
+    "question": "Wie ist ein sechsjähriges Kind hinsichtlich seiner Geschäftsfähigkeit einzuordnen?",
+    "options": {
+      "A": "Voll geschäftsfähig.",
+      "B": "Beschränkt geschäftsfähig.",
+      "C": "Geschäftsunfähig.",
+      "D": "Nur bei Käufen geschäftsfähig."
+    },
+    "correct": "C",
+    "explanation": "Nach § 104 Nr. 1 BGB ist geschäftsunfähig, wer das siebente Lebensjahr noch nicht vollendet hat. Die Willenserklärung eines Geschäftsunfähigen ist nach § 105 Abs. 1 BGB grundsätzlich nichtig."
+  },
+  {
+    "question": "Wie ist ein 15-jähriger Minderjähriger grundsätzlich hinsichtlich seiner Geschäftsfähigkeit einzuordnen?",
+    "options": {
+      "A": "Geschäftsunfähig.",
+      "B": "Voll geschäftsfähig.",
+      "C": "Nur bei Bargeschäften geschäftsfähig.",
+      "D": "Beschränkt geschäftsfähig."
+    },
+    "correct": "D",
+    "explanation": "Nach § 106 BGB ist ein Minderjähriger, der das siebente Lebensjahr vollendet hat, beschränkt geschäftsfähig. Diese beschränkte Geschäftsfähigkeit besteht grundsätzlich bis zur Volljährigkeit."
+  },
+  {
+    "question": "Welche Aussage über die Geschäftsfähigkeit eines 18-jährigen Menschen trifft grundsätzlich zu?",
+    "options": {
+      "A": "Er ist grundsätzlich geschäftsunfähig.",
+      "B": "Er ist grundsätzlich voll geschäftsfähig.",
+      "C": "Er bleibt bis zum 21. Lebensjahr beschränkt geschäftsfähig.",
+      "D": "Er ist nur mit Zustimmung seiner Eltern geschäftsfähig."
+    },
+    "correct": "B",
+    "explanation": "Mit Eintritt der Volljährigkeit besteht grundsätzlich volle Geschäftsfähigkeit. Besondere Umstände können im Einzelfall zu Geschäftsunfähigkeit führen, aber es gibt keine allgemeine Zwischenstufe zwischen 18 und 21 Jahren."
+  }
+]
